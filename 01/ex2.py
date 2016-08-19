@@ -7,3 +7,17 @@ print "I could have code like this." # and the comment after is ignored
 #print "This won't run."
 
 print "This will run."
+
+'''
+This is three-line comment
+This is three-line comment
+This is three-line comment
+'''
+
+"""
+This is the four-lin commen
+This is the four-lin commen
+This is the four-lin commen
+This is the four-lin commen
+This is the four-lin commen
+"""
